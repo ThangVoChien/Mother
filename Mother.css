@@ -1,0 +1,47 @@
+body{
+    background: center url(istockphoto-1446805742-612x612.jpg);
+    background-size: 100%;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: crimson;
+}
+
+article{
+    padding: 0% 30%;
+    
+}
+
+article *{
+    position: relative;
+}
+
+h3{
+    text-align: left;
+    left: 10%;
+    margin: 0%;
+    font-family: Garamond;
+}
+
+p{
+    margin: 0%;
+    text-align: center;
+    font-family: cursive;
+}
+
+aside{
+    text-align: right;
+    right: 10%;
+}
+
+#heart{
+    float: left;
+}
+
+#rose{
+    position: relative;
+    float: right;
+    width: 20%;
+}
